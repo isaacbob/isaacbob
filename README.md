@@ -1,4 +1,6 @@
-<p align = 'center'><img src = 'https://isaac.tetzloff.me/images/isaac-color.svg' width = '200'></p>
+<div align = 'center'>
+	<img src = 'https://isaac.tetzloff.me/images/isaac-color.svg' width = '200'>
+</div>
 
 <div align = 'center'>
 	<a href = 'https://www.isaacbob.com'><img src = 'https://img.shields.io/badge/Website-7D7D7D?style=for-the-badge&logoColor=white' alt = 'Website Badge'></a>
@@ -8,7 +10,7 @@
 	<a href = 'https://orcid.org/0000-0002-5118-9064'><img src = 'https://img.shields.io/badge/ORCiD-A6CE39?style=for-the-badge&logo=orcid&logoColor=white' alt = 'ORCiD Badge'></a>
 </div>
 
-# <p align = 'center'>Hi! I'm @isaacbob</p>
+# <div align='center'>Hi! I'm @isaacbob</div>
 
 ### About Me:
 
@@ -18,7 +20,7 @@ Operations research and data analytics professional with a passion for data visu
 
 ### Languages I Dabble In:
 
-<div bgcolor = 'F0F0F0'>
+<div>
 	<picture><img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' title = 'Python' alt = 'Python' width = '40' height = '40'/></picture>&nbsp;
 	<picture><img src = 'https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg' title = 'Azure SQL' alt = 'Azure SQL' width = '40' height = '40'/></picture>&nbsp;
 	<picture><img src = 'https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' title = 'Java' alt = 'Java' width = '40' height = '40'/></picture>&nbsp;
