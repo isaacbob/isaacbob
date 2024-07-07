@@ -18,7 +18,7 @@ Operations research and data analytics professional with a passion for data visu
 
 ### Languages I Dabble In:
 
-<div>
+<div bgcolor = 'F0F0F0'>
 	<picture><img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' title = 'Python' alt = 'Python' width = '40' height = '40'/></picture>&nbsp;
 	<picture><img src = 'https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg' title = 'Azure SQL' alt = 'Azure SQL' width = '40' height = '40'/></picture>&nbsp;
 	<picture><img src = 'https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' title = 'Java' alt = 'Java' width = '40' height = '40'/></picture>&nbsp;
