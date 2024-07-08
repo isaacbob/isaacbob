@@ -14,7 +14,7 @@
 
 ### About Me:
 
-Operations research and data analytics professional with a passion for data visualization. Experienced leader of analytics and data science teams, focusing on delivering insightful, meaningful, and actionable deliverables.
+Operations research and data analytics professional with a passion for data visualization. Experienced leader of analytics and data science teams, focused on creating insightful, meaningful, and actionable deliverables.
 
 ---
 
