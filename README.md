@@ -14,7 +14,7 @@
 
 ### About Me:
 
-Operations research and data analytics professional with a passion for data visualization. Experienced leader of analytics and data science teams, focused on creating insightful, meaningful, and actionable deliverables.
+Accomplished operations research and data analytics professional with expertise in optimization, data science, and advanced analytics. Passionate about data visualization and adept at leading analytics and data science teams to transform complex datasets into actionable insights for operational decision-making.
 
 ---
 
@@ -44,6 +44,7 @@ Operations research and data analytics professional with a passion for data visu
 	<picture><img src = 'https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' title = 'RStudio' alt = 'RStudio' width = '40' height = '40'/></picture>&nbsp;
 	<picture><img src = 'https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' title = 'GitHub' alt = 'GitHub' width = '40' height = '40'/></picture>&nbsp;
 </div>
+
 
 <!--
 **isaacbob/isaacbob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
