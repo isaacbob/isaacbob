@@ -8,6 +8,9 @@
 	<a href = 'https://linkedin.com/in/isaacbob'><img src = 'https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' alt = 'LinkedIn Badge'></a>
 	<a href = 'https://scholar.google.com/citations?user=hDUWj0YAAAAJ&hl=en'><img src = 'https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white' alt = 'Google Scholar Badge'></a>
 	<a href = 'https://orcid.org/0000-0002-5118-9064'><img src = 'https://img.shields.io/badge/ORCiD-A6CE39?style=for-the-badge&logo=orcid&logoColor=white' alt = 'ORCiD Badge'></a>
+	<a href = 'https://instagram.com/isaacbob'><img src = 'https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white' alt = 'Instagram Badge'></a>
+	<a href = 'https://x.com/isaacbob'><img src = 'https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white' alt = 'X (Twitter) Badge'></a>
+	<a href = 'https://facebook.com/isaacbob'><img src = 'https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt = 'Facebook Badge'></a>
 </div>
 
 # <div align='center'>Hi! I'm @isaacbob</div>
